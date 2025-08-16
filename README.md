@@ -4,7 +4,7 @@ Este é um aplicativo simples e funcional para **gerenciamento de listas de comp
 
 ## 🖼️ Interface
 
-![Interface do Aplicativo](FotoSoftware.jpg)
+![Interface do Aplicativo](FotoSoftware.png)
 
 ---
 
